@@ -1,0 +1,2 @@
+"name","region_count","longest_axis_largest_tumor","pixels_gt_90","avg_prediction","max_area","mean_area","area_variance","area_skew","area_kurt","max_perimeter","mean_perimeter","perimeter_variance","perimeter_skew","perimeter_kurt","max_eccentricity","mean_eccentricity","eccentricity_variance","eccentricity_skew","extent_kurt","max_solidity","mean_solidity","solidity_variance","solidity_skew","solidity_kurt"
+"Tumor_110",26.0,0.36,16203.0,246.4,11155.0,623.19,4912351.77,4.17,16.69,1360.68,83.68,76530.52,3.89,14.65,1.0,0.3,0.16,0.66,-1.39,1.0,0.95,0.01,-2.26,4.16,1

@@ -1,0 +1,46 @@
+<Annotations MicronsPerPixel="0.251400">
+  <Annotation Id="1" Name="" ReadOnly="0" NameReadOnly="0" LineColorReadOnly="0" Incremental="0" Type="4" LineColor="65280" Visible="1" Selected="1" MarkupImagePath="" MacroName="">
+    <Attributes>
+      <Attribute Name="Description" Id="0" Value=""/>
+    </Attributes>
+    <Regions>
+      <RegionAttributeHeaders>
+        <AttributeHeader Id="9999" Name="Region" ColumnWidth="-1"/>
+        <AttributeHeader Id="9997" Name="Length" ColumnWidth="-1"/>
+        <AttributeHeader Id="9996" Name="Area" ColumnWidth="-1"/>
+        <AttributeHeader Id="9998" Name="Text" ColumnWidth="-1"/>
+        <AttributeHeader Id="1" Name="Description" ColumnWidth="-1"/>
+      </RegionAttributeHeaders>
+      <Region Id="1" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="1">        <Attributes/>
+        <Vertices>
+          <Vertex X="22528.000000" Y="93440.000000"/>
+        </Vertices>
+      </Region>
+      <Region Id="2" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="2">        <Attributes/>
+        <Vertices>
+          <Vertex X="22784.000000" Y="93184.000000"/>
+        </Vertices>
+      </Region>
+      <Region Id="3" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="3">        <Attributes/>
+        <Vertices>
+          <Vertex X="60416.000000" Y="91392.000000"/>
+        </Vertices>
+      </Region>
+      <Region Id="4" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="4">        <Attributes/>
+        <Vertices>
+          <Vertex X="73728.000000" Y="141824.000000"/>
+        </Vertices>
+      </Region>
+      <Region Id="5" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="5">        <Attributes/>
+        <Vertices>
+          <Vertex X="74240.000000" Y="96000.000000"/>
+        </Vertices>
+      </Region>
+      <Region Id="6" Type="1" Zoom="0.020765" Selected="0" ImageLocation="" ImageFocus="0" Text="" NegativeROA="0.000000" InputRegionId="0.000000" Analyze="1.000000" DisplayId="6">        <Attributes/>
+        <Vertices>
+          <Vertex X="82432.000000" Y="106496.000000"/>
+        </Vertices>
+      </Region>
+    </Regions>
+  </Annotation>
+</Annotations>
